@@ -21,7 +21,7 @@ To be eligible, the BIS alternative must be a drop-in replacement for the origin
 | cc/c17 | Compile standard C programs |
 | cal | Print a calendar |
 | [cat](https://www.man7.org/linux/man-pages/man1/cat.1.html) | Concatenate and print files | [bat](https://github.com/sharkdp/bat) | Syntax highlighting, Git integration, non-printable characters |
-| cd | Change the working directory |
+| [cd](https://man7.org/linux/man-pages/man1/cd.1p.html) | Change the working directory | [zoxide](https://github.com/ajeetdsouza/zoxide) | Remembers history for smarter navigation |
 | cflow | Generate a C-language call graph |
 | chgrp | Change the file group ownership |
 | chmod | Change the file modes/attributes/permissions |
