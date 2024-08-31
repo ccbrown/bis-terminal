@@ -131,6 +131,7 @@ To be eligible, the BIS alternative must be a drop-in replacement for the origin
 | test | Evaluate expression |
 | time | Retrieve and format time and date |
 | timeout | Run command with a time limit |
+| [top](https://man7.org/linux/man-pages/man1/top.1.html) | Display processes | [htop](https://github.com/htop-dev/htop) | Improved interface |
 | touch | Change file access and modification times |
 | tput | Change terminal characteristics |
 | tr | Translate characters |
