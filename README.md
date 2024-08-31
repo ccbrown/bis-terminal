@@ -1,9 +1,13 @@
 # bis-terminal
 
+This repo documents "best in slot" (BIS) replacements for common command line utilities, most of which are from the [POSIX command list](https://en.wikipedia.org/wiki/List_of_POSIX_commands).
+
+To be eligible, the BIS alternative must be a drop-in replacement for the original, or very close. It should not feel like a completely new utility – anyone familiar with the original should be able to use its basic functionality with zero learning curve.
+
 ## Commands
 
-| Command | Description | Best In Slot |
-| --- | --- | --- |
+| Command | Description | Best In Slot | BIS Features |
+| --- | --- | --- | --- |
 | admin | Create and administer SCCS files |
 | alias | Define or display aliases |
 | ar | Create and maintain library archives |
@@ -58,7 +62,7 @@
 | getconf | Get configuration values |
 | getopts | Parse utility options |
 | gettext | Retrieve text string from messages object |
-| grep | Search text for a pattern |
+| grep | Search text for a pattern | [ripgrep](https://github.com/BurntSushi/ripgrep) | **Speed**, automatic filtering, replacements, compressed file search, preprocessing filters |
 | hash | Hash database access method |
 | head | Copy the first part of files |
 | iconv | Codeset conversion |
