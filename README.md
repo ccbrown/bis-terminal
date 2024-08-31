@@ -2,7 +2,7 @@
 
 This repo documents "best in slot" (BIS) replacements for common command line utilities, most of which are from the [POSIX command list](https://en.wikipedia.org/wiki/List_of_POSIX_commands).
 
-To be eligible, the BIS alternative must be a drop-in replacement for the original, or very close. It should not feel like a completely new utility – anyone familiar with the original should be able to use its basic functionality with zero learning curve.
+To be eligible, the BIS alternative must be a drop-in replacement for the original, or very close. It should not feel like a completely new utility – anyone familiar with the original should be able to use its basic functionality with little-to-no learning curve.
 
 ## Commands
 
@@ -116,7 +116,7 @@ To be eligible, the BIS alternative must be a drop-in replacement for the origin
 | rmdir | Remove directories, if they are empty. |
 | sact | Print current SCCS file-editing activity |
 | sccs | Front end for the SCCS subsystem |
-| sed | Stream editor |
+| [sed](https://www.man7.org/linux/man-pages/man1/sed.1p.html) | Stream editor | [sd](https://github.com/chmln/sd) | Speed, common sense defaults, intuitive expression syntax |
 | sh | Shell, the standard command language interpreter |
 | sleep | Suspend execution for an interval |
 | sort | Sort, merge, or sequence check text files |
