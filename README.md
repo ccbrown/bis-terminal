@@ -20,7 +20,7 @@ To be eligible, the BIS alternative must be a drop-in replacement for the origin
 | bg | Run jobs in the background |
 | cc/c17 | Compile standard C programs |
 | cal | Print a calendar |
-| cat | Concatenate and print files |
+| [cat](https://www.man7.org/linux/man-pages/man1/cat.1.html) | Concatenate and print files | [bat](https://github.com/sharkdp/bat) | Syntax highlighting, Git integration, non-printable characters |
 | cd | Change the working directory |
 | cflow | Generate a C-language call graph |
 | chgrp | Change the file group ownership |
@@ -62,7 +62,7 @@ To be eligible, the BIS alternative must be a drop-in replacement for the origin
 | getconf | Get configuration values |
 | getopts | Parse utility options |
 | gettext | Retrieve text string from messages object |
-| grep | Search text for a pattern | [ripgrep](https://github.com/BurntSushi/ripgrep) | **Speed**, automatic filtering, replacements, compressed file search, preprocessing filters |
+| [grep](https://man7.org/linux/man-pages/man1/grep.1.html) | Search text for a pattern | [ripgrep](https://github.com/BurntSushi/ripgrep) | **Speed**, automatic filtering, replacements, compressed file search, preprocessing filters |
 | hash | Hash database access method |
 | head | Copy the first part of files |
 | iconv | Codeset conversion |
