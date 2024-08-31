@@ -2,7 +2,7 @@
 
 This repo documents "best in slot" (BIS) replacements for common command line utilities, most of which are from the [POSIX command list](https://en.wikipedia.org/wiki/List_of_POSIX_commands).
 
-To be eligible, the BIS alternative must be a drop-in replacement for the original, or very close. It should not feel like a completely new utility – anyone familiar with the original should be able to use its basic functionality with little-to-no learning curve.
+To be eligible, the BIS alternative must be a drop-in replacement for the original, or close. It doesn't need to have feature parity, but it shouldn't feel like a completely new utility either – anyone familiar with the original should be able to use its basic functionality with little-to-no learning curve.
 
 ## Commands
 
@@ -142,7 +142,7 @@ To be eligible, the BIS alternative must be a drop-in replacement for the origin
 | ulimit | Set or report file size limit |
 | umask | Get or set the file mode creation mask |
 | unalias | Remove alias definitions |
-| uname | Return system name |
+| uname | Return system name | [fastfetch](https://github.com/fastfetch-cli/fastfetch) | Pretty output, more information and extensibility |
 | uncompress | Expand compressed data |
 | unexpand | Convert spaces to tabs |
 | unget | Undo a previous get of an SCCS file |
