@@ -80,7 +80,7 @@ To be eligible, the BIS alternative must be a drop-in replacement for the origin
 | logger | Log messages |
 | logname | Return the user's login name |
 | lp | Send files to a printer |
-| ls | List directory contents |
+| [ls](https://man7.org/linux/man-pages/man1/ls.1.html) | List directory contents | [exa](https://github.com/ogham/exa) | Color coding, speed, Git awareness, wide view |
 | m4 | Macro processor |
 | mailx | Process messages |
 | make | Maintain, update, and regenerate groups of programs |
