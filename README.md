@@ -95,7 +95,7 @@ To be eligible, the BIS alternative must be a drop-in replacement for the origin
 | ngettext | Retrieve text string from messages object with plural form |
 | nice | Invoke a utility with an altered nice value |
 | nl | Line numbering filter |
-| nm |  |
+| nm | Write the name list of an object file |
 | nohup | Invoke a utility immune to hangups |
 | od | Dump files in various formats |
 | paste | Merge corresponding or subsequent lines of files |
