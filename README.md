@@ -154,7 +154,7 @@ To be eligible, the BIS alternative must be a drop-in replacement for the origin
 | uustat | uucp status inquiry and job control |
 | uux | Remote command execution |
 | val | Validate SCCS files |
-| vi | Screen-oriented (visual) display editor |
+| vi | Screen-oriented (visual) display editor | [neovim](https://github.com/neovim/neovim) | Modern GUIs, API access, shared data, Vim plugin support |
 | wait | Await process completion |
 | wc | Line, word and byte or character count |
 | what | Identify SCCS files |
