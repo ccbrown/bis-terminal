@@ -54,7 +54,7 @@ To be eligible, the BIS alternative must be a drop-in replacement for the origin
 | fc | Process the command history list |
 | fg | Run jobs in the foreground |
 | file | Determine file type |
-| find | Find files |
+| find | Find files | [fd](https://github.com/sharkdp/fd) | Intuitive syntax, speed, color coding, Git awareness |
 | fold | Filter for folding lines |
 | fuser | List process IDs of all processes that have one or more files open |
 | gencat | Generate a formatted message catalog |
