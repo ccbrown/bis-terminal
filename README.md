@@ -4,6 +4,8 @@ This repo documents "best in slot" (BIS) replacements for common command line ut
 
 To be eligible, the BIS alternative must be a drop-in replacement for the original, or close. It doesn't need to have feature parity, but it shouldn't feel like a completely new utility either – anyone familiar with the original should be able to use its basic functionality with little-to-no learning curve.
 
+🚧 This is very much an early work in progress. If you have suggestions or contributions, please open an issue or pull request!
+
 ## Commands
 
 | Command | Description | Best In Slot | BIS Features |
